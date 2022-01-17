@@ -21,3 +21,4 @@ https://kaggle2.blob.core.windows.net/forum-message-attachments/2594/supervised_
 https://www.youtube.com/watch?v=2M77Hgy17cg
 
 
+
